@@ -31,7 +31,7 @@ PRODUCT_PACKAGES := \
     Exchange2 \
     Gallery2 \
     LatinIME \
-    LauncherNew \
+    Launcher2 \
     Music \
     Provision \
     QuickSearchBox \
