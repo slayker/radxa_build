@@ -33,7 +33,7 @@ PRODUCT_PACKAGES := \
     Gallery2 \
     InputDevices \
     LatinIME \
-    Launcher2 \
+    LauncherNew \
     Music \
     MusicFX \
     Provision \
